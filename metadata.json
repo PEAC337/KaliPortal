@@ -1,0 +1,8 @@
+{
+  "name": "KaliPortal",
+  "description": "Generate ready-to-run Kali Linux desktop launchers, WebKitGTK wrappers, and isolated portal installers for integrating your company portal onto your desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
